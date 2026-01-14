@@ -17,10 +17,10 @@
 I'm a developer who learns by doing. Right now, I'm working on a bunch of academic and personal projects where I get to experiment with AI-powered learning tools, mess around with game development in Unity, and figure out better ways to structure software. 
 
 **Current Focus:**
-- 🎮 Unity game development & advanced UI/UX
-- 🤖 Integrating AI features into real applications  
-- ☁️ Learning cloud deployment and DevOps workflows
-- 🏗️ Building cleaner, more maintainable project structures
+-  Unity game development & advanced UI/UX
+-  Integrating AI features into real applications  
+-  Learning cloud deployment and DevOps workflows
+-  Building cleaner, more maintainable project structures
 
 ---
 
@@ -199,7 +199,7 @@ Got an idea? Let's build something together!
 
 <div align="center">
 
-## 💭 Dev Quote of the Day
+## 💭 Dev Quote 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
