@@ -184,10 +184,10 @@ I'm a developer who learns by doing. Right now, I'm working on a bunch of academ
 ## 🤝 Looking to Collaborate On
 
 I'm actively looking to team up with people on:
-- ☁️ **Cloud deployment** & **DevOps** workflows
-- 🔧 **Edge computing** projects
-- 🚀 **CI/CD pipelines** and taking apps from localhost to production
-- 💡 Any cool project where I can learn something new!
+-  **Cloud deployment** & **DevOps** workflows
+-  **Edge computing** projects
+-  **CI/CD pipelines** and taking apps from localhost to production
+-  Any cool project where I can learn something new!
 
 Got an idea? Let's build something together! 
 
