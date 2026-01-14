@@ -1,121 +1,172 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Rohith Sheregar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohith%20Sheregar&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Game%20Developer&descAlignY=51&descAlign=50&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Developer;AI+Enthusiast;Open+Source+Contributor;Building+The+Future" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Tomorrow's+Technology+Today;Unity+%7C+AI+%7C+Web+Development;Always+Learning%2C+Always+Creating" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
-## 🚀 Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
 
 </div>
 
-### 💻 Languages
+<div align="center">
+
+<!-- Animated programming GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+
+</div>
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,kotlin,php" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,kotlin,php&perline=8" />
+  </a>
 </p>
 
-### 🎨 Frontend
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" height="30px"> Frontend Development
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,threejs" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,threejs,tailwind&perline=6" />
+  </a>
 </p>
 
 ### ⚙️ Backend & Frameworks
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express&perline=4" />
+  </a>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,vercel&perline=5" />
+  </a>
 </p>
 
-### 🎮 Game Dev & Graphics
+### 🎮 Game Development & Graphics
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=unity,blender,figma" />
-<img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,figma&perline=3" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black" />
 </p>
 
-### 🤖 AI & Data Science
+### 🤖 AI & Machine Learning
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### ☁️ Cloud & Deployment
-<p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,vercel" />
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohith-sheregar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=rohith-sheregar&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-sheregar&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-sheregar&theme=tokyo-night&hide_border=true" />
+## 📊 GitHub Statistics
 
 </div>
 
----
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rohith-sheregar&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Rohith Sheregar github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-sheregar&theme=react&background=0d1117&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-sheregar&layout=compact&hide_border=true&title_color=36BCF7&text_color=36BCF7&bg_color=0d1117" />
+  
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-sheregar&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
 
 <div align="center">
 
-## 🏆 Trophy Case
+### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohith-sheregar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rohith-sheregar&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith-sheregar&bg_color=1a1b27&color=38bdae&line=628fdb&point=38bdae&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-## 💡 Random Dev Wisdom
+## 💡 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-sheregar-076992290)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rohith07596)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rohith_sheregar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithraghu3228@gmail.com)
+<a href="https://linkedin.com/in/rohith-sheregar-076992290" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://discord.gg/rohith07596" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://instagram.com/rohith_sheregar" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:rohithraghu3228@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+### 👁️ Profile Views
 
-<img src="https://visitcount.itsvg.in/api?id=rohith-sheregar&icon=2&color=6" />
+<img src="https://visitcount.itsvg.in/api?id=rohith-sheregar&label=Profile%20Views&color=12&icon=5&pretty=true" />
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
