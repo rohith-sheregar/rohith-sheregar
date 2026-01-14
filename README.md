@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Game+Dev+Enthusiast;Currently+diving+into+Unity+and+AI;Love+experimenting+with+new+tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Game+Dev+Enthusiast;Currently+diving+into+Unity+and+AI;Love+experimenting+with+new+tech!" />
 </a>
 
 </div>
@@ -16,13 +16,13 @@
 
 ## 🚀 What I'm Building
 
-I'm a developer who learns by doing. Right now, I'm working on academic and personal projects where I experiment with AI-powered learning tools, game development in Unity, and clean software architecture.
+I’m a developer who learns by building. I work on academic and personal projects focused on AI-powered tools, Unity-based game development, and clean, scalable software design.
 
-**Current Focus:**
+**Current Focus**
 - Unity game development & advanced UI/UX  
-- Integrating AI features into real-world applications  
-- Learning cloud deployment and DevOps workflows  
-- Writing cleaner, more maintainable project structures  
+- Integrating AI into real applications  
+- Cloud deployment & DevOps workflows  
+- Writing clean, maintainable code  
 
 ---
 
@@ -30,15 +30,13 @@ I'm a developer who learns by doing. Right now, I'm working on academic and pers
 
 ## 💼 Featured Projects
 
-> 🔨 I'll be updating this section with my coolest projects soon!
-
 <div align="center">
 
 | Project | Description | Tech Stack |
 |-------|------------|-----------|
-| 🎯 **In Progress** | Coming soon | `—` |
-| 🎨 **FlashMind** | AI-powered flashcard generator | `React` `FastAPI` `ML` |
-| 🤖 **Watero** | ESP-32 based water quality monitor | `ESP32` `Arduino` `MIT App Inventor` |
+| 🎯 In Progress | Upcoming project | — |
+| 🎨 FlashMind | AI-powered flashcard generator | React, FastAPI, ML |
+| 🤖 Watero | ESP32-based water quality monitor | ESP32, Arduino, MIT App Inventor |
 
 </div>
 
@@ -48,54 +46,43 @@ I'm a developer who learns by doing. Right now, I'm working on academic and pers
 
 <div align="center">
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>💻 Languages</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,kotlin,php&perline=8" />
-</p>
 </details>
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,vue,threejs&perline=5" />
-</p>
 </details>
 
 <details open>
 <summary><b>⚙️ Backend & Frameworks</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,django,flask&perline=3" />
-</p>
 </details>
 
 <details open>
 <summary><b>🗄️ Databases</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&perline=4" />
-</p>
 </details>
 
 <details open>
 <summary><b>🎮 Game Dev & Graphics</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=unity,blender,figma&perline=3" />
 <br><br>
-<img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black" />
-</p>
+<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black" />
 </details>
 
 <details open>
 <summary><b>🤖 AI & Data Science</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch&perline=1" />
 <br><br>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -103,15 +90,12 @@ I'm a developer who learns by doing. Right now, I'm working on academic and pers
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
 </details>
 
 <details open>
 <summary><b>☁️ Cloud & Tools</b></summary>
 <br>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=firebase,vercel,git&perline=3" />
-</p>
 </details>
 
 </div>
@@ -126,7 +110,7 @@ I'm a developer who learns by doing. Right now, I'm working on academic and pers
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohith-sheregar&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-sheregar&theme=react&background=0d1117&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rohith-sheregar&theme=react&background=0d1117&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-sheregar&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117&langs_count=8" />
 
@@ -154,11 +138,22 @@ I'm a developer who learns by doing. Right now, I'm working on academic and pers
 
 ## 🐍 Contribution Snake
 
+![Snake Status](https://github.com/rohith-sheregar/rohith-sheregar/actions/workflows/snake.yml/badge.svg)
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake.svg">
-<img alt="snake animation" src="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+       src="https://raw.githubusercontent.com/rohith-sheregar/rohith-sheregar/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 🧭 Legend
+- Light blocks → fewer contributions  
+- Dark / colored blocks → higher activity  
+- Snake movement → chronological contribution flow  
+- Status badge → workflow health  
 
 </div>
 
