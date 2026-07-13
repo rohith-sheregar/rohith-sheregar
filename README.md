@@ -153,10 +153,15 @@ Computer Science and Engineering student building deployable software across ful
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rohith-sheregar&show_icons=true&count_private=true&hide_border=true&title_color=5eead4&icon_color=f0a868&text_color=c9d1d9&bg_color=0a0a0a&rank_icon=github" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohith-sheregar&layout=compact&hide_border=true&title_color=5eead4&text_color=c9d1d9&bg_color=0a0a0a&langs_count=8" />
+<img width="65%" src="https://github-stats-extended.vercel.app/api?username=rohith-sheregar&show_icons=true&count_private=true&hide_border=true&title_color=5eead4&icon_color=f0a868&text_color=c9d1d9&bg_color=0a0a0a&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com/?user=rohith-sheregar&theme=dark&background=0a0a0a&hide_border=true&stroke=5eead4&ring=f0a868&fire=f0a868&currStreakLabel=5eead4" />
+<br>
+
+<img width="65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohith-sheregar&layout=compact&hide_border=true&title_color=5eead4&text_color=c9d1d9&bg_color=0a0a0a&langs_count=8" />
+
+<br>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=rohith-sheregar&theme=dark&background=0a0a0a&hide_border=true&stroke=5eead4&ring=f0a868&fire=f0a868&currStreakLabel=5eead4" />
 
 </div>
 
@@ -177,10 +182,6 @@ Computer Science and Engineering student building deployable software across ful
 <br>
 
 <div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=rohith-sheregar&label=Profile%20Views&color=5&icon=5&pretty=true" />
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111827,100:0a0a0a&height=110&section=footer" />
 
