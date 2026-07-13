@@ -183,7 +183,7 @@ Computer Science and Engineering student building deployable software across ful
 
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frohith-sheregar&count_bg=%235EEAD4&title_bg=%23161B22&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false" />
+<img src="https://komarev.com/ghpvc/?username=rohith-sheregar&label=Profile+Views&color=5eead4&style=for-the-badge" />
 
 <br><br>
 
