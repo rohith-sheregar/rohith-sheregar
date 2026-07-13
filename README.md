@@ -8,7 +8,6 @@
 
 <br><br>
 
-<a href="https://rohith-sheregar.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-rohith--sheregar.vercel.app-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=5eead4" /></a>
 <a href="mailto:rohithraghu3228@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rohithraghu3228%40gmail.com-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=f0a868" /></a>
 <a href="https://in.linkedin.com/in/rohith-sheregar-076992290"><img src="https://img.shields.io/badge/LINKEDIN-connect-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=5eead4" /></a>
 
@@ -26,7 +25,7 @@ Computer Science and Engineering student building deployable software across ful
 
 |  PROJECT BUILDS  |  CURRENT CGPA  |  PROOF POINTS  |
 |:---:|:---:|:---:|
-|  **6**  |  **8.4**  |  **3**  |
+|  **6**  |  **8.44**  |  **3**  |
 |  AI, backend, web, tooling  |  CSE · SMVITM · 2027  |  paper · hackathon · demos  |
 
 </div>
@@ -249,7 +248,7 @@ Four-player Ludo game with turn handling, collision logic, and win-condition val
 | **Degree** | Bachelor of Engineering — Computer Science & Engineering |
 | **Institution** | Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM) |
 | **University** | Visvesvaraya Technological University (VTU) |
-| **CGPA** | 8.3 / 10 |
+| **CGPA** | 8.44 / 10 |
 | **Expected Graduation** | 2027 |
 
 </div>
@@ -286,7 +285,6 @@ Four-player Ludo game with turn handling, collision logic, and win-condition val
 <a href="https://github.com/rohith-sheregar"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=5eead4&color=161b22" /></a>
 <a href="https://in.linkedin.com/in/rohith-sheregar-076992290"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=5eead4&color=161b22" /></a>
 <a href="mailto:rohithraghu3228@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=5eead4&color=161b22" /></a>
-<a href="https://rohith-sheregar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=5eead4&color=161b22" /></a>
 
 <br><br>
 
